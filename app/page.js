@@ -11,7 +11,7 @@ export default function HomePage() {
       <header className="flex justify-between items-center py-4 border-b mb-6">
         <h1 className="text-2xl font-bold">Customer Management</h1>
         <Link 
-          href="/customer/page"
+          href="/customer/new"
           className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition"
         >
           Add New Customer
